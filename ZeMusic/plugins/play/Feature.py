@@ -42,7 +42,7 @@ from random import  choice, randint
 async def mmmezat(client, message):
         await message.reply_text(f"""**مرحبآ بك عزيزي » {message.from_user.mention}**في قسم مميزات سورس زد إي ميوزك\n
 ⩹━★⊷⌯⌞ 🔱 
-𝟑 𝐓 𝐛🔱 ⌝⌯⊶★━⩺
+𝐘 𝐙 𝐍 ⌝⌯⊶★━⩺
 
 ★قايمه مميزات سورس زد إي 
 
@@ -92,12 +92,12 @@ async def mmmezat(client, message):
 ★ميزه ⦂ فنان+اكتب اسم فنان و هتجبلك اغانيه
 ★ميزه ⦂ اصدار+حول
 
-⩹━★⊷⌯⌞ 🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱 ⌝⌯⊶★━⩺""",
+⩹━★⊷⌯⌞ 𝐘 𝐙 𝐍 ⌝⌯⊶★━⩺""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "★⌞ 🔱 𝟑 𝐓 𝐛 🔱 ⌝⚡", url=f"https://t.me/O_U_Q1"),                        
+                        "★⌞ 𝐘 𝐙 𝐍 ⌝⚡", url=f"https://t.me/CZCRR"),                        
                  ],[
                 InlineKeyboardButton(
                         "close", callback_data="close"),
