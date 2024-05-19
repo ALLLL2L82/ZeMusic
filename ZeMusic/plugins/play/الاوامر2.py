@@ -21,7 +21,7 @@ async def arbic(_, query: CallbackQuery):
                         url=f"https://t.me/{app.username}?startgroup=true",
                     )
                 ],
-                [InlineKeyboardButton("🔱 𓏺 𝑨꯭𝑩꯭𝑶˹꯭ 𝑺꯭𝑨꯭𝑸꯭𝑹 𝘴͜͡𝘢 🔱", url=f"https://t.me/O_U_Q1"),
+                [InlineKeyboardButton("𝐘 𝐙 𝐍", url=f"https://t.me/F_U_01"),
                 
 InlineKeyboardButton("لتفعيل كيبورد الاعضاء", callback_data="afyona"),
                 ],
@@ -30,7 +30,7 @@ InlineKeyboardButton("لتفعيل كيبورد الاعضاء", callback_data="
                 ],
                 [
                     InlineKeyboardButton(
-                        "‹ السورس ›", url=f"https://t.me/O_U_Q1"
+                        "‹ السورس ›", url=f"https://t.me/F_U_01"
                     ),
                     InlineKeyboardButton(
                         "‹ اضف البوت لمجموعتك ›", url=f"https://t.me/ze7hbot?startgroup=true"
@@ -38,7 +38,7 @@ InlineKeyboardButton("لتفعيل كيبورد الاعضاء", callback_data="
                 ],
                 [
                     InlineKeyboardButton(
-                        "‹ الدعم ›", url="https://t.me/O_U_Q1"
+                        "‹ الدعم ›", url="https://t.me/F_U_01"
                     )
                 ],
             ]
@@ -65,19 +65,19 @@ InlineKeyboardButton(" member keyboard ", callback_data="Q_XUQ"),
                 ],
                 [                
                     InlineKeyboardButton(" Commands", callback_data="cbcmds"),
-                    InlineKeyboardButton(" Donate ", url=f"https://t.me/O_U_Q1"),
+                    InlineKeyboardButton(" Donate ", url=f"https://t.me/F_U_01"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "🔱 𓏺 𝑨꯭𝑩꯭𝑶˹꯭ 𝑺꯭𝑨꯭𝑸꯭𝑹 𝘴͜͡𝘢 🔱", url=f"https://t.me/O_U_Q1"
+                        "𝐘 𝐙 𝐍", url=f"https://t.me/F_U_01"
                     ),
                     InlineKeyboardButton(
-                        "‹ المطور ›", url=f"https://t.me/O_U_1S"
+                        "‹ المطور ›", url=f"https://t.me/CZCRR"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "‹ الدعم ›", url="https://t.me/O_U_Q1"
+                        "‹ الدعم ›", url="https://t.me/F_U_01"
                     )
                 ],
             ]
