@@ -58,7 +58,7 @@ async def english(_, query: CallbackQuery):
                 ],
                 [InlineKeyboardButton(" Basic Guide", callback_data="cbhowtouse"),
                 
-InlineKeyboardButton(" member keyboard ", callback_data="CZCRR),
+InlineKeyboardButton(" member keyboard ", callback_data="CZCRR"),
                 ],
                 [                
                     InlineKeyboardButton(" Commands", callback_data="cbcmds"),
