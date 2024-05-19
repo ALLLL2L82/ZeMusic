@@ -9,10 +9,10 @@ async def arbic(_, query: CallbackQuery):
     await query.answer("home start")
     await query.edit_message_text(
         f""" 🔱**[مرحبا بك] [{query.message.chat.first_name}](tg://user?id={query.message.chat.id}) ! \n
-※ [انا بوت تشغيل الأغاني والفيديو  في المكالمه المرئية](https://t.me/O_U_Q1) \n
-※[لاظهار كيبورد الاعضاء اضغط](https://t.me/O_U_Q1) /ZE \n
-※ [في حال مواجهه اي مشكله انضم هنا](https://t.me/O_U_Q1)\n [🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱](https://t.me/O_U_Q1)
-※ [استخدم الازرار لمعرفه الاوامر المستخدمه.](https://t.me/O_U_Q1) """,
+※ [انا بوت تشغيل الأغاني والفيديو  في المكالمه المرئية](https://t.me/F_U_01) \n
+※[لاظهار كيبورد الاعضاء اضغط](https://t.me/F_U_01) /ZE \n
+※ [في حال مواجهه اي مشكله انضم هنا](https://t.me/F_U_01)\n [𝐘 𝐙 𝐍](https://t.me/F_U_01)
+※ [استخدم الازرار لمعرفه الاوامر المستخدمه.](https://t.me/F_U_01) """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -21,7 +21,7 @@ async def arbic(_, query: CallbackQuery):
                         url=f"https://t.me/{app.username}?startgroup=true",
                     )
                 ],
-                [InlineKeyboardButton("الدعم والتواصل", url=f"https://t.me/O_U_Q1"),
+                [InlineKeyboardButton("الدعم والتواصل", url=f"https://t.me/CZCRR"),
                 
 InlineKeyboardButton("لتفعيل كيبورد الاعضاء", callback_data="ze"),
                 ],
@@ -30,12 +30,12 @@ InlineKeyboardButton("لتفعيل كيبورد الاعضاء", callback_data="
                 ],
                 [
                     InlineKeyboardButton(
-                        "‹ السورس ›", url=f"https://t.me/O_U_Q1"
+                        "‹ السورس ›", url=f"https://t.me/F_U_01"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "‹ المطور ›", url="https://t.me/O_U_1S"
+                        "‹ المطور ›", url="https://t.me/CZCRR"
                     )
                 ],
             ]
@@ -47,7 +47,7 @@ InlineKeyboardButton("لتفعيل كيبورد الاعضاء", callback_data="
 async def english(_, query: CallbackQuery):
     await query.answer("home start")
     await query.edit_message_text(
-        f" [※A Telegram Music Bot Based Mongodb](https://t.me/O_U_Q1) \n ※[Add Me To Ur Chat For and Help and And Support Click On Buttons](https://t.me/Source_Ze) \n ※[These Features AI Based](https://t.me/Source_Ze)",
+        f" [※A Telegram Music Bot Based Mongodb](https://t.me/F_U_01) \n ※[Add Me To Ur Chat For and Help and And Support Click On Buttons](https://t.me/F_U_01) \n ※[These Features AI Based](https://t.me/F_U_01)",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -58,15 +58,15 @@ async def english(_, query: CallbackQuery):
                 ],
                 [InlineKeyboardButton(" Basic Guide", callback_data="cbhowtouse"),
                 
-InlineKeyboardButton(" member keyboard ", callback_data="Source_Ze"),
+InlineKeyboardButton(" member keyboard ", callback_data="CZCRR),
                 ],
                 [                
                     InlineKeyboardButton(" Commands", callback_data="cbcmds"),
-                    InlineKeyboardButton(" Donate", url=f"https://t.me/O_U_Q1"),
+                    InlineKeyboardButton(" Donate", url=f"https://t.me/F_U_01"),
                 ],
                 [
                     InlineKeyboardButton(
-                        " DEVELOPER ", url="https://t.me/O_U_QA"
+                        " DEVELOPER ", url="https://t.me/CZCRR"
                     )
                 ],
             ]
