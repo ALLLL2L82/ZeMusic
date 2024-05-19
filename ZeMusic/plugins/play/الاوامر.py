@@ -20,7 +20,7 @@ from pyrogram.errors import MessageNotModified
 )
 async def cr_source(client: Client, message: Message):
     await message.reply_photo(
-      photo=f"https://graph.org/file/64b768cff9c90461692d5.jpg",
+      photo=f"https://telegra.ph/file/018bff5d227366a421b6f.jpg",
         caption=f"""**- قائمة الاوامر
         
  — — — — — — — — — — 
@@ -47,7 +47,7 @@ async def cr_source(client: Client, message: Message):
                  ],[       
                        
                     InlineKeyboardButton(
-                        "‹ السورس ›", url=f"https://t.me/O_U_Q1"),
+                        "‹ السورس ›", url=f"https://t.me/F_U_01"),
                 ],
 
             ]
