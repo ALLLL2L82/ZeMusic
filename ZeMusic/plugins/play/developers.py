@@ -19,19 +19,19 @@ from random import  choice, randint
                )                   
 async def huhh(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/64b768cff9c90461692d5.jpg",
-        caption=f"""◉ 𝙽𝙰𝙼𝙴 : ❪[𓏺 𝑨꯭𝑩꯭𝑶˹꯭ 𝑺꯭𝑨꯭𝑸꯭𝑹 𝘴͜͡𝘢](https://t.me/O_U_QA)❫
+        photo=f"https://telegra.ph/file/018bff5d227366a421b6f.jpg",
+        caption=f"""◉ 𝙽𝙰𝙼𝙴 : ❪[𝐘 𝐙 𝐍](https://t.me/CZCRR)❫
 ◉ 𝚄𝚂𝙴𝚁 : ❪ @O_U_QA ❫
 ◉ 𝙸𝙳      : ❪ `6189288231` ❫
-◉ 𝙱𝙸𝙾    : ❪ for me (@O_U_QA) my world (@O_U_Q1 - @O_U_QA) my bro (@O_U_QA) ❫""",
+◉ 𝙱𝙸𝙾    : ❪ for me حقاً لَن تصبح مَثلي ❴ @CZCRR0 ❵ ❫""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "᳒𓏺 𝑨꯭𝑩꯭𝑶˹꯭ 𝑺꯭𝑨꯭𝑸꯭𝑹 𝘴͜͡𝘢", url=f"https://t.me/O_U_QA"), 
+                        "᳒𝐘 𝐙 𝐍", url=f"https://t.me/CZCRR"), 
                  ],[
                    InlineKeyboardButton(
-                        "🔱 𓏺 𝑨꯭𝑩꯭𝑶˹꯭ 𝑺꯭𝑨꯭𝑸꯭𝑹 𝘴͜͡𝘢 🔱", url=f"https://t.me/O_U_QA"),
+                        "𝐘 𝐙 𝐍", url=f"https://t.me/CZCRR"),
                 ],
 
             ]
